@@ -8,6 +8,7 @@ sys.path.insert(0, str(SRC))
 
 project = "adm1dae"
 author = "Taher Abunama"
+copyright = "2026"
 release = "0.1.0"
 
 extensions = [
