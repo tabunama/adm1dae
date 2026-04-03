@@ -28,11 +28,9 @@ pip install adm1dae
 
 ## Links
 
-```md
 [PyPI](https://pypi.org/project/adm1dae/) 
 [GitHub](https://github.com/tabunama/adm1dae) 
 [Documentation](https://tabunama.github.io/adm1dae/)
-```
 
 ### Current release
 
@@ -41,7 +39,6 @@ The current PyPI release is distributed as a compiled wheel for:
 - Windows x64
 - CPython 3.12
 
-If your environment does not match that platform and Python version, `pip install adm1dae` may not find a compatible wheel.
 
 ## Import
 
