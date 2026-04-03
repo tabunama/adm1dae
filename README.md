@@ -26,7 +26,13 @@ Install from PyPI:
 pip install adm1dae
 ```
 
-### Current binary release
+[project.urls]
+Homepage = "https://github.com/tabunama/adm1dae"
+Repository = "https://github.com/tabunama/adm1dae"
+Documentation = "https://tabunama.github.io/adm1dae/"
+
+
+### Current release
 
 The current PyPI release is distributed as a compiled wheel for:
 

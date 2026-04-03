@@ -34,3 +34,5 @@ src/adm1dae/adm1_dae_ss_results.npz
 # 
 src/adm1dae/c_core/
 src/adm1dae/cython/
+
+src/adm1dae/cdefs.pxd
