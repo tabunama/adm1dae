@@ -1,0 +1,24 @@
+adm1dae : Python package license and attribution notice
+
+Package:
+    adm1dae
+
+Recommended install command:
+    pip install adm1dae
+
+Public API:
+    from adm1dae import simulate
+
+Compiled modules provided in the wheel:
+    adm1dae.adm1_DAE2_bsm2
+    adm1dae.pHsolv_bsm2
+    adm1dae.Sh2solv_adm1
+
+Packaged and maintained by:
+    Dr Taher Abunama (tabunama@gmail.com)
+
+Acknowledgements:
+    The adm1dae package was prepared by Dr Taher Abunama based on the original ADM1 / BSM2 implementation and related algebraic solver components developed by the upstream academic authors.
+
+Request:
+    Please send feedback and, if you use this package in research/publications, acknowledge both the upstream ADM1 implementation authors and this Python packaging work.

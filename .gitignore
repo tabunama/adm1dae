@@ -1,0 +1,36 @@
+# virtual env
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Build artifacts
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Binary outputs
+*.pyd
+*.so
+*.dll
+*.o
+*.obj
+*.lib
+*.exp
+
+# IDE
+.vscode/
+.idea/
+
+# local outputs
+src/adm1dae/adm1_dae_test.npz
+src/adm1dae/adm1_dae_ss_results.npz
+
+# 
+src/adm1dae/c_core/
+src/adm1dae/cython/
