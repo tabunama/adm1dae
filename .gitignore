@@ -30,6 +30,9 @@ dist/
 # local outputs
 src/adm1dae/adm1_dae_test.npz
 src/adm1dae/adm1_dae_ss_results.npz
+src/
+setup.py
+pyproject.toml
 
 # 
 src/adm1dae/c_core/

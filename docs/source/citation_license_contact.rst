@@ -22,10 +22,7 @@ MATLAB/Simulink/C original development and modification lineage includes:
 - Xavier Flores-Alsina
 - Krist V. Gernaey
 
-Please preserve the upstream license and attribution notices in ``LICENSE`` and ``THIRD_PARTY_NOTICES.md``.
-
 Contact
 -------
 
 - Dr Taher Abunama (tabunama@gmail.com)
-- Prof Krist V. Gernaey (kvg@kt.dtu.dk)
