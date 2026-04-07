@@ -10,13 +10,6 @@ Python package for ADM1 DAE process modeling with BSM2 algebraic pH and H2 solve
 - `pHsolv_bsm2` : algebraic pH solver
 - `Sh2solv_adm1` : algebraic dissolved hydrogen solver
 
-The package also provides a Python simulation driver that reproduces the Simulink-style execution pattern with:
-
-- continuous ADM1 state integration
-- discrete pH solver updates
-- discrete H2 solver updates
-- influent interpolation
-- result export to NPZ
 
 ## Installation
 
@@ -45,32 +38,6 @@ The current PyPI release is distributed as a compiled wheel for:
 ```python
 from adm1dae import simulate
 ```
-
-## Command-line usage
-
-```bash
-python -m adm1dae.simulate --influ path/to/AD_constinfluent_bsm2.npz --t_end 300 --dt 0.1 --out adm1_dae_results.npz
-```
-
-## Input
-
-The simulation expects an influent NPZ containing either:
-
-- `(n, 94)` = time + 93 influent columns
-- `(n, 93)` = 93 influent columns aligned to the simulation grid
-
-## Output
-
-The simulation saves NPZ output containing:
-
-- `times`
-- `digesterin`
-- `digesterout`
-- `x_adm1`
-- `x_ph`
-- `x_sh2`
-- `PAR`
-- `V`
 
 
 ## License and attribution
