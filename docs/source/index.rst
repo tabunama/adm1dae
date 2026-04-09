@@ -12,7 +12,7 @@ Install from PyPI:
 Current published artifact:
 
 - Windows x64
-- CPython 3.12 wheel
+- Python 3.12
 
 .. toctree::
    :maxdepth: 2
