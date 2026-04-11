@@ -7,7 +7,6 @@ Citation
 adm1dae Python package (2026). Taher Abunama, Xavier Flores-Alsina, Christian Kazadi Mbamba, Kimberly Solon, Darko Vrecko,
 Stephan Tait, Damien J. Batstone, Ulf Jeppsson, and Krist V. Gernaey
 
-For software context and the aqueous-phase chemistry framework integrated with ADM1/BSM2, see Flores-Alsina et al. (2015).
 
 Upstream license agreement and attribution
 ------------------------------------------
